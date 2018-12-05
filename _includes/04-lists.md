@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+#### Hobbies
+* Making Money :moneybag:
+* Hacking :computer:
+* Collecting Baseball Cards :baseball:
